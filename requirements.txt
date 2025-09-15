@@ -1,0 +1,26 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+prophet
+pmdarima
+jupyter
+openpyxl
+
+pandas, numpy → data manipulation & numerical operations
+
+scikit-learn → preprocessing, ML models, evaluation
+
+matplotlib, seaborn → data visualization & EDA
+
+statsmodels → ARIMA & statistical modeling
+
+prophet → time-series forecasting (Facebook Prophet)
+
+pmdarima → auto-ARIMA functionality
+
+jupyter → to run .ipynb notebooks
+
+openpyxl → Excel/CSV handling, required if your dataset is .xlsx
